@@ -2,3 +2,7 @@ div.redes-sociales {
     color: #000000;
     font-size: 2em;
 }
+
+div.img {
+ border-radius: 8px;
+}
